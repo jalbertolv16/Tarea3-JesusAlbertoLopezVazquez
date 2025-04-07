@@ -1,4 +1,7 @@
+[TOC]
+
 #  Ejercicio1 - Contenedores en red y Docker Desktop
+
                ## 1. Crea una red bridge redej1
 
 Tal y como se indica en la tarea para facilitar la tarea hemos descargado la extensión "PortNavigator", en ella vamos a crear la red  **redej1**
